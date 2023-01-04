@@ -1,0 +1,1 @@
+in >> comp_nm;

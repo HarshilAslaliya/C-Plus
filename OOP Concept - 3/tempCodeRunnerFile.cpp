@@ -1,0 +1,14 @@
+cout << "Employee Name : ";
+            // cin >> emp_nm;
+            // cout << "Employee Role : ";
+            // cin >> emp_role;
+            // cout << "Employee Age : ";
+            // cin >> emp_age;
+            // cout << "Employee Salary : ";
+            // cin >> emp_salary;
+            // cout << "Employee Experience : ";
+            // cin >> emp_exp;
+            // cout << "Employee City : ";
+            // cin >> emp_city;
+            // cout << "Employee Company name : ";
+            // cin >> emp_company_nm;
